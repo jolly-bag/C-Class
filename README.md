@@ -1,2 +1,0 @@
-# C-Class
-C# Class
